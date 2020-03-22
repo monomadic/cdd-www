@@ -8,7 +8,7 @@ body {
 }
 body {
   margin: 0;
-  font-family: Helvetica;
+  font-family: "Segoe UI", Helvetica;
 }
 .header {
   background-color: purple;
@@ -25,6 +25,7 @@ body {
 #editor {
   flex-grow: 1;
   height: 100%;
+  width: 800px;
 }
 .content {
   height: 100%;
